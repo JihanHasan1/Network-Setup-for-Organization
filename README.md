@@ -6,6 +6,7 @@ infrastructure where DHCP server provides IP to each end devices, WEB server con
 webpage elements in an IP address and DNS converts the requested domain name into IP 
 address. In this infrastructure, more end devices can be used in the future and no more 
 configuration is needed for that.
+
 So, using this network system. the university can run a number of complex networked systems 
 to support several of its business process like admissions, advising, results, e-Tender, library 
 management, accounts and so on.
