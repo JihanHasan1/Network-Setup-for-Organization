@@ -17,7 +17,9 @@ management, accounts and so on.
 3. Different Subnets are incorporated to each other.
 
 **Software Used :** Cisco Packet Tracer
+
 **Language Used :** Command Line Interface (CLI) for Device Configuration
 
 Here is the Network Design :
+
 ![Project](https://github.com/JihanHasan1/Network-Setup-for-Organization/assets/150295625/96dcf514-b207-4476-ae75-fce7e0bb1e63)
